@@ -4,7 +4,18 @@
     If error code is not '-942' (Table does not exists) then raise the exception.
     For materialized views we check for error code '-12003'
         (Materialized view does not exist).
+    For triggers we check for error code '-4080' (Trigger does not exist).
 */
+
+BEGIN
+    EXECUTE IMMEDIATE 'DROP TRIGGER trig_ensure_ts_entry_date_validation';
+EXCEPTION
+    WHEN OTHERS THEN
+        IF SQLCODE != -4080 THEN
+            RAISE;
+        END IF;
+END;
+/
 
 BEGIN
    EXECUTE IMMEDIATE 'DROP MATERIALIZED VIEW mv_ts_dept_monthly_hours';
