@@ -1,0 +1,1336 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "themes": [
+      "freedom",
+      "surveillance",
+      "control",
+      "truth"
+    ],
+    "short_summary": "A dystopian novel about surveillance, propaganda, and the destruction of personal freedom under a totalitarian regime.",
+    "full_summary": "Winston Smith lives in a society controlled by Big Brother, where surveillance is constant and truth is manipulated by the state. As he starts questioning the regime, he searches for freedom, love, and authenticity. The novel explores political oppression, psychological control, and the fragility of truth in an authoritarian world."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "themes": [
+      "friendship",
+      "adventure",
+      "magic",
+      "courage"
+    ],
+    "short_summary": "Bilbo Baggins joins a dangerous quest and discovers courage, loyalty, and the thrill of adventure in a magical world.",
+    "full_summary": "Bilbo Baggins is drawn into an unexpected quest with a group of dwarves seeking to reclaim their treasure from Smaug the dragon. Along the journey, he grows from a comfort-loving hobbit into a brave and resourceful adventurer. The story combines fantasy, friendship, danger, and self-discovery."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "themes": [
+      "friendship",
+      "magic",
+      "school",
+      "identity"
+    ],
+    "short_summary": "A young boy discovers he is a wizard and enters a magical world full of friendship, mystery, and danger.",
+    "full_summary": "Harry Potter learns on his eleventh birthday that he is a wizard and begins attending Hogwarts School of Witchcraft and Wizardry. There he forms close friendships, uncovers secrets from his past, and faces threats linked to dark magic. The novel is centered on belonging, courage, and the wonder of discovery."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "author": "Erich Maria Remarque",
+    "themes": [
+      "war",
+      "loss",
+      "trauma",
+      "survival"
+    ],
+    "short_summary": "A devastating portrait of soldiers' lives in World War I, focusing on fear, loss, and the emotional cost of war.",
+    "full_summary": "Paul Bäumer and his friends join the war with patriotic enthusiasm, only to face unimaginable suffering in the trenches. The novel strips away the romanticism of war and shows its brutal, dehumanizing effects. It is a powerful reflection on trauma, youth, and survival."
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "themes": [
+      "war",
+      "friendship",
+      "books",
+      "resistance"
+    ],
+    "short_summary": "Set in Nazi Germany, this novel follows a girl who finds comfort and resistance through books and human connection.",
+    "full_summary": "Liesel Meminger grows up in Nazi Germany, where she discovers the power of words, stories, and friendship amid war and fear. Narrated by Death, the novel examines loss, humanity, and the quiet forms of resistance. Books become both refuge and rebellion in a violent world."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "themes": [
+      "love",
+      "class",
+      "family",
+      "judgment"
+    ],
+    "short_summary": "Elizabeth Bennet navigates love, family expectations, and social class while learning to question first impressions.",
+    "full_summary": "Elizabeth Bennet meets the proud but complex Mr. Darcy and initially judges him harshly. As misunderstandings unfold, both characters confront their own pride and prejudice. The novel explores love, social expectations, intelligence, and moral growth."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "themes": [
+      "power",
+      "destiny",
+      "politics",
+      "ecology"
+    ],
+    "short_summary": "A sweeping science-fiction story about power, prophecy, survival, and control over a desert planet's vital resource.",
+    "full_summary": "Paul Atreides is thrust into a political and ecological struggle on the desert planet Arrakis, where control of the spice determines the fate of empires. As he grows into a prophetic role, he must navigate war, leadership, and destiny. The novel blends politics, religion, survival, and environmental themes."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "themes": [
+      "justice",
+      "empathy",
+      "racism",
+      "childhood"
+    ],
+    "short_summary": "A coming-of-age novel that explores justice, empathy, and moral courage in the face of prejudice.",
+    "full_summary": "Through the eyes of Scout Finch, the novel presents a small Southern town shaped by racial injustice and social inequality. Her father, Atticus Finch, defends a Black man falsely accused of assault, becoming a model of moral courage. The story examines empathy, fairness, and the loss of innocence."
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "themes": [
+      "magic",
+      "music",
+      "ambition",
+      "mystery"
+    ],
+    "short_summary": "A gifted young man recounts his rise from hardship to legend in a world shaped by magic, learning, and myth.",
+    "full_summary": "Kvothe tells the story of his childhood, his extraordinary talents, and his pursuit of knowledge at a magical university. Along the way, he faces poverty, love, danger, and hidden forces that shape his fate. The novel combines lyrical storytelling, ambition, music, and arcane mystery."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "themes": [
+      "destiny",
+      "hope",
+      "journey",
+      "meaning"
+    ],
+    "short_summary": "A shepherd travels in search of treasure and discovers lessons about destiny, purpose, and listening to the world.",
+    "full_summary": "Santiago leaves home to pursue a recurring dream of treasure, crossing deserts and meeting mentors who reshape his understanding of life. His external journey becomes a spiritual one, focused on purpose, courage, and trust. The novel explores personal legend, hope, and the search for meaning."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "themes": [
+      "wealth",
+      "illusion",
+      "love",
+      "class"
+    ],
+    "short_summary": "A tragic portrait of desire, reinvention, and moral emptiness in the Jazz Age.",
+    "full_summary": "Nick Carraway becomes entangled in the life of the mysterious millionaire Jay Gatsby, whose lavish parties conceal an obsessive hope of rekindling a past romance with Daisy Buchanan. As dreams collide with class divisions and selfishness, the novel exposes the emptiness beneath glamour and the cost of idealizing the past."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "themes": [
+      "obsession",
+      "revenge",
+      "nature",
+      "fate"
+    ],
+    "short_summary": "A seafaring epic about Captain Ahab's obsessive pursuit of the white whale.",
+    "full_summary": "Ishmael joins the whaling ship Pequod and witnesses Captain Ahab's relentless hunt for Moby Dick, the whale that maimed him. The voyage becomes a meditation on obsession, fate, knowledge, and humanity's struggle against forces larger than itself."
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "themes": [
+      "independence",
+      "love",
+      "identity",
+      "morality"
+    ],
+    "short_summary": "An orphaned young woman seeks dignity, love, and self-respect in a harsh world.",
+    "full_summary": "Jane Eyre rises from a neglected childhood to become a governess at Thornfield Hall, where she falls in love with the enigmatic Edward Rochester. Forced to choose between passion and principle, she insists on preserving her independence and moral integrity."
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "themes": [
+      "love",
+      "revenge",
+      "class",
+      "destruction"
+    ],
+    "short_summary": "A dark story of obsessive love and revenge across two generations.",
+    "full_summary": "The intense bond between Heathcliff and Catherine Earnshaw shapes the lives of everyone around them, turning desire into cruelty and revenge. Set on the Yorkshire moors, the novel explores destructive passion, social exclusion, and emotional inheritance."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "themes": [
+      "alienation",
+      "adolescence",
+      "identity",
+      "grief"
+    ],
+    "short_summary": "A disaffected teenager wanders New York while struggling with grief and belonging.",
+    "full_summary": "After being expelled from school, Holden Caulfield spends several days alone in New York City, criticizing the hypocrisy he sees everywhere while quietly mourning loss and fearing adulthood. The novel captures alienation, vulnerability, and the search for authenticity."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "themes": [
+      "control",
+      "technology",
+      "freedom",
+      "pleasure"
+    ],
+    "short_summary": "A dystopian vision of a society engineered for stability through pleasure and conditioning.",
+    "full_summary": "In a future world state, citizens are genetically designed and psychologically conditioned to accept their roles, while pleasure and consumption keep dissent at bay. When outsiders and misfits challenge the system, the novel questions whether comfort without freedom can ever be humane."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "themes": [
+      "censorship",
+      "knowledge",
+      "conformity",
+      "awakening"
+    ],
+    "short_summary": "A fireman in a book-burning society begins to question censorship and conformity.",
+    "full_summary": "Guy Montag works as a fireman whose job is to destroy books, but a series of encounters awakens his curiosity about ideas and individuality. As he turns against the culture of distraction and repression, he risks everything in pursuit of thought and memory."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "themes": [
+      "guilt",
+      "morality",
+      "poverty",
+      "redemption"
+    ],
+    "short_summary": "A psychological novel about murder, guilt, and the struggle for redemption.",
+    "full_summary": "Rodion Raskolnikov, an impoverished student in St. Petersburg, kills a pawnbroker believing himself above conventional morality. The crime plunges him into paranoia and torment, and the novel follows his painful confrontation with guilt, suffering, and the possibility of renewal."
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "themes": [
+      "faith",
+      "family",
+      "free_will",
+      "justice"
+    ],
+    "short_summary": "A philosophical family drama about faith, doubt, and moral responsibility.",
+    "full_summary": "The turbulent Karamazov family is torn apart by desire, resentment, and spiritual conflict, culminating in murder and trial. Through the lives of the brothers, the novel explores belief, reason, free will, and the burden of moral choice."
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "themes": [
+      "love",
+      "society",
+      "family",
+      "betrayal"
+    ],
+    "short_summary": "An aristocratic woman risks everything in a passionate but destructive affair.",
+    "full_summary": "Anna Karenina begins a love affair with Count Vronsky, defying the expectations of Russian high society and placing herself at odds with family, reputation, and stability. Alongside her story, Tolstoy contrasts other visions of marriage, duty, and meaning."
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "themes": [
+      "war",
+      "history",
+      "family",
+      "change"
+    ],
+    "short_summary": "A vast novel interweaving Russian families, war, and the search for meaning.",
+    "full_summary": "Against the backdrop of the Napoleonic wars, the lives of several Russian families unfold through love, ambition, suffering, and transformation. The novel combines intimate human stories with sweeping reflections on history, power, and the unpredictability of events."
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "themes": [
+      "journey",
+      "homecoming",
+      "cunning",
+      "perseverance"
+    ],
+    "short_summary": "An ancient epic of survival, wandering, and the long return home.",
+    "full_summary": "After the Trojan War, Odysseus faces monsters, temptations, and divine obstacles on his years-long voyage back to Ithaca. His journey tests endurance, loyalty, and intelligence while his family struggles to preserve home and identity in his absence."
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "themes": [
+      "war",
+      "honor",
+      "rage",
+      "mortality"
+    ],
+    "short_summary": "An epic poem about rage, honor, and the human cost of war.",
+    "full_summary": "Set during the Trojan War, the poem centers on Achilles' fury after a conflict with Agamemnon and traces the devastation that follows. It examines heroism, grief, pride, and mortality in a world shaped by violence and fate."
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "themes": [
+      "illusion",
+      "idealism",
+      "friendship",
+      "reality"
+    ],
+    "short_summary": "A comic and poignant tale of a man who tries to live as a knight in an unromantic world.",
+    "full_summary": "Inspired by chivalric romances, Alonso Quixano becomes Don Quixote and sets out with Sancho Panza to right wrongs and pursue noble adventures. Their journey exposes the tension between imagination and reality while celebrating dignity, hope, and companionship."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "themes": [
+      "creation",
+      "responsibility",
+      "isolation",
+      "ambition"
+    ],
+    "short_summary": "A scientist creates life and unleashes tragedy through pride and neglect.",
+    "full_summary": "Victor Frankenstein animates a living being but recoils from the creature he has made, abandoning it to loneliness and rejection. The catastrophe that follows explores scientific ambition, responsibility, and the desperate human need for connection."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "themes": [
+      "fear",
+      "desire",
+      "modernity",
+      "evil"
+    ],
+    "short_summary": "A gothic novel about a vampire's threat and the struggle to stop him.",
+    "full_summary": "Count Dracula leaves Transylvania to prey upon victims in England, prompting a desperate effort by friends and experts to understand and destroy him. Told through letters and journals, the novel blends superstition and modernity while exploring fear, sexuality, and invasion."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "themes": [
+      "beauty",
+      "corruption",
+      "vanity",
+      "conscience"
+    ],
+    "short_summary": "A young man remains outwardly youthful while his hidden portrait records his moral decay.",
+    "full_summary": "Dorian Gray wishes to keep his beauty forever, and his portrait begins to bear the marks of his sins instead of his body. Seduced by pleasure and narcissism, he descends into corruption while trying to escape consequences."
+  },
+  {
+    "title": "Les Miserables",
+    "author": "Victor Hugo",
+    "themes": [
+      "justice",
+      "mercy",
+      "poverty",
+      "redemption"
+    ],
+    "short_summary": "An ex-convict seeks redemption while pursued by the law in nineteenth-century France.",
+    "full_summary": "After years in prison, Jean Valjean rebuilds his life through compassion and sacrifice, yet remains hunted by the rigid inspector Javert. The novel spans revolutionary unrest and private suffering, examining poverty, mercy, law, and moral transformation."
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "themes": [
+      "revenge",
+      "justice",
+      "betrayal",
+      "identity"
+    ],
+    "short_summary": "A wrongfully imprisoned man escapes and engineers an elaborate revenge.",
+    "full_summary": "Edmond Dantes is falsely accused, imprisoned, and transformed by suffering before escaping with a vast fortune. Reinventing himself as the Count of Monte Cristo, he pursues vengeance while confronting the moral costs of revenge."
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "themes": [
+      "desire",
+      "boredom",
+      "illusion",
+      "society"
+    ],
+    "short_summary": "A provincial woman pursues romantic fantasies that end in ruin.",
+    "full_summary": "Emma Bovary longs for passion, luxury, and a more exciting life than her marriage and surroundings can offer. Her affairs and spending spiral into disaster, revealing the dangers of illusion, dissatisfaction, and self-deception."
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "themes": [
+      "absurdity",
+      "alienation",
+      "death",
+      "society"
+    ],
+    "short_summary": "A detached man confronts judgment and meaning after committing a senseless crime.",
+    "full_summary": "Meursault drifts through life with emotional detachment until he kills a man almost by chance and faces trial. His indifference unsettles society, and the novel becomes a meditation on absurdity, mortality, and the search for meaning."
+  },
+  {
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "themes": [
+      "solidarity",
+      "suffering",
+      "absurdity",
+      "resistance"
+    ],
+    "short_summary": "A town under quarantine confronts fear, suffering, and moral responsibility.",
+    "full_summary": "When plague strikes the Algerian city of Oran, ordinary people must decide how to respond to isolation, death, and uncertainty. The novel portrays suffering without false consolation and emphasizes solidarity, endurance, and ethical action."
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "themes": [
+      "family",
+      "history",
+      "solitude",
+      "magic"
+    ],
+    "short_summary": "A multigenerational saga blending history, myth, and magical realism.",
+    "full_summary": "The Buendia family founds the town of Macondo, and over generations their passions, repetitions, and tragedies mirror the rise and decline of the community. The novel fuses the marvelous and the ordinary to explore solitude, memory, and cyclical history."
+  },
+  {
+    "title": "Love in the Time of Cholera",
+    "author": "Gabriel Garcia Marquez",
+    "themes": [
+      "love",
+      "time",
+      "patience",
+      "memory"
+    ],
+    "short_summary": "A decades-long love story about longing, fidelity, and the passage of time.",
+    "full_summary": "Florentino Ariza waits for the chance to reunite with Fermina Daza, whom he has loved since youth, even after she marries another man. Their story unfolds over many years and examines romantic persistence, aging, and the complicated nature of devotion."
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "themes": [
+      "slavery",
+      "memory",
+      "trauma",
+      "motherhood"
+    ],
+    "short_summary": "A haunting novel about slavery's trauma and the struggle to reclaim selfhood.",
+    "full_summary": "Sethe, an escaped enslaved woman, lives with the unbearable weight of her past until a mysterious young woman named Beloved enters her life. Morrison interweaves memory, haunting, and history to show how trauma persists across generations."
+  },
+  {
+    "title": "Song of Solomon",
+    "author": "Toni Morrison",
+    "themes": [
+      "identity",
+      "family",
+      "flight",
+      "heritage"
+    ],
+    "short_summary": "A young man searches for family history and a fuller sense of self.",
+    "full_summary": "Milkman Dead grows up alienated from his family and community, then sets out on a journey that reveals buried stories, ancestral memory, and new forms of freedom. The novel explores identity, inheritance, and the meanings of flight."
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "themes": [
+      "identity",
+      "racism",
+      "power",
+      "visibility"
+    ],
+    "short_summary": "An unnamed Black narrator confronts a society that refuses to truly see him.",
+    "full_summary": "Moving from the American South to Harlem, the narrator passes through institutions that exploit, define, and erase him. His journey becomes a powerful exploration of racism, individuality, ideology, and the struggle to exist on one's own terms."
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "themes": [
+      "love",
+      "voice",
+      "freedom",
+      "self_discovery"
+    ],
+    "short_summary": "A woman looks back on the marriages and choices that shaped her identity.",
+    "full_summary": "Janie Crawford recounts her life through love, hardship, and self-realization in the American South. As she learns to claim her own voice and desires, the novel celebrates emotional autonomy, language, and resilience."
+  },
+  {
+    "title": "Native Son",
+    "author": "Richard Wright",
+    "themes": [
+      "racism",
+      "violence",
+      "fear",
+      "inequality"
+    ],
+    "short_summary": "A young Black man in Chicago is driven toward violence by fear and oppression.",
+    "full_summary": "Bigger Thomas lives within structures of racism and poverty that constrict every choice he makes, culminating in a disastrous act of violence. The novel exposes systemic injustice and the destructive pressures of social exclusion."
+  },
+  {
+    "title": "Go Tell It on the Mountain",
+    "author": "James Baldwin",
+    "themes": [
+      "faith",
+      "family",
+      "identity",
+      "oppression"
+    ],
+    "short_summary": "A coming-of-age novel about religion, family tensions, and self-understanding.",
+    "full_summary": "John Grimes grows up in a strict Pentecostal household in Harlem, wrestling with sin, expectation, sexuality, and spiritual longing. Baldwin traces family history and inner conflict to examine faith, power, and identity."
+  },
+  {
+    "title": "Giovanni's Room",
+    "author": "James Baldwin",
+    "themes": [
+      "love",
+      "identity",
+      "shame",
+      "desire"
+    ],
+    "short_summary": "An American abroad confronts desire, fear, and the consequences of self-denial.",
+    "full_summary": "In Paris, David enters a relationship with Giovanni while trying to preserve a false image of himself and his future. Baldwin's novel is a precise, tragic study of intimacy, shame, and the damage caused by refusing one's own truth."
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "themes": [
+      "tradition",
+      "colonialism",
+      "masculinity",
+      "change"
+    ],
+    "short_summary": "A respected Igbo leader faces personal and cultural upheaval under colonial rule.",
+    "full_summary": "Okonkwo builds his identity on strength, achievement, and fear of weakness, but his world is disrupted by internal conflict and the arrival of European colonial power. The novel portrays the complexity of Igbo society and the trauma of cultural rupture."
+  },
+  {
+    "title": "No Longer at Ease",
+    "author": "Chinua Achebe",
+    "themes": [
+      "corruption",
+      "tradition",
+      "modernity",
+      "duty"
+    ],
+    "short_summary": "A civil servant struggles between personal ideals, family obligations, and systemic corruption.",
+    "full_summary": "Obi Okonkwo returns from England with hopes of serving Nigeria honestly, but economic pressure and social expectations pull him toward compromise. Achebe examines colonial aftermath, class mobility, and moral erosion."
+  },
+  {
+    "title": "A Passage to India",
+    "author": "E.M. Forster",
+    "themes": [
+      "colonialism",
+      "friendship",
+      "misunderstanding",
+      "power"
+    ],
+    "short_summary": "A tense encounter in British India reveals the fragility of cross-cultural connection.",
+    "full_summary": "The friendship between Dr. Aziz and Cyril Fielding is tested after a mysterious incident in the Marabar Caves triggers accusation and suspicion. The novel explores empire, prejudice, and the limits of understanding across political and cultural divisions."
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "themes": [
+      "disillusionment",
+      "love",
+      "war",
+      "restlessness"
+    ],
+    "short_summary": "A group of expatriates drift through Europe after World War I seeking meaning and pleasure.",
+    "full_summary": "Jake Barnes and his companions travel from Paris to Pamplona, carrying emotional wounds and unfulfilled desires in the aftermath of war. Hemingway captures the aimlessness, longing, and brittle vitality of the Lost Generation."
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "themes": [
+      "war",
+      "love",
+      "loss",
+      "fate"
+    ],
+    "short_summary": "A romance unfolds against the chaos and futility of World War I.",
+    "full_summary": "American ambulance driver Frederic Henry falls in love with British nurse Catherine Barkley while serving in Italy during World War I. Their private hope is shadowed by violence, retreat, and the indifference of fate."
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "themes": [
+      "war",
+      "sacrifice",
+      "solidarity",
+      "death"
+    ],
+    "short_summary": "A volunteer fighter faces love, duty, and mortality during the Spanish Civil War.",
+    "full_summary": "Robert Jordan joins anti-fascist guerrillas in Spain and prepares a dangerous mission to blow up a bridge. Over a few intense days, he experiences comradeship, love, and the painful demands of sacrifice."
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "themes": [
+      "poverty",
+      "migration",
+      "family",
+      "justice"
+    ],
+    "short_summary": "A Dust Bowl family journeys west in search of work and dignity.",
+    "full_summary": "Driven from their Oklahoma farm, the Joad family travels to California only to encounter exploitation, hunger, and shattered promises. Steinbeck presents a fierce portrait of economic injustice, endurance, and collective struggle."
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "themes": [
+      "friendship",
+      "dreams",
+      "loneliness",
+      "powerlessness"
+    ],
+    "short_summary": "Two displaced workers cling to a shared dream in a harsh and lonely world.",
+    "full_summary": "George and Lennie move from ranch to ranch during the Great Depression, sustained by the hope of someday owning land together. Their bond offers tenderness and stability, but vulnerability and violence threaten their fragile dream."
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "themes": [
+      "family",
+      "good_and_evil",
+      "choice",
+      "inheritance"
+    ],
+    "short_summary": "A sprawling family novel about moral choice, love, and the legacy of sin.",
+    "full_summary": "Across generations in California's Salinas Valley, the Trask and Hamilton families repeat and resist patterns of jealousy, cruelty, and longing. Steinbeck reworks biblical themes to argue that human beings are not trapped by inheritance alone."
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "themes": [
+      "identity",
+      "obsession",
+      "memory",
+      "jealousy"
+    ],
+    "short_summary": "A young bride is haunted by the lingering presence of her husband's first wife.",
+    "full_summary": "After marrying Maxim de Winter, an insecure young woman arrives at Manderley and feels overshadowed by the memory of Rebecca, whose influence seems to shape every corner of the estate. The novel builds psychological suspense around identity, class, and deception."
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "themes": [
+      "patriarchy",
+      "control",
+      "resistance",
+      "identity"
+    ],
+    "short_summary": "A woman survives and remembers life under a theocratic regime that controls reproduction.",
+    "full_summary": "In the Republic of Gilead, Offred is forced into the role of a Handmaid, valued only for her fertility and denied ordinary freedoms. Through memory and careful acts of resistance, she preserves a sense of self against systemic oppression."
+  },
+  {
+    "title": "Alias Grace",
+    "author": "Margaret Atwood",
+    "themes": [
+      "memory",
+      "crime",
+      "class",
+      "gender"
+    ],
+    "short_summary": "A historical novel about a servant accused of murder and the mystery of her mind.",
+    "full_summary": "Grace Marks, imprisoned for a notorious nineteenth-century double murder, recounts her life to a doctor trying to determine whether she is innocent, manipulative, or damaged by trauma. Atwood explores unreliable memory, class hierarchy, and the stories told about women."
+  },
+  {
+    "title": "The Blind Assassin",
+    "author": "Margaret Atwood",
+    "themes": [
+      "memory",
+      "secrets",
+      "sisterhood",
+      "power"
+    ],
+    "short_summary": "An elderly woman reflects on family secrets, betrayal, and a hidden literary legacy.",
+    "full_summary": "Iris Chase looks back on a privileged but damaged life marked by political tension, unhappy marriage, and the complicated bond with her sister Laura. Layers of narrative gradually reveal concealed relationships, exploitation, and truth."
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "themes": [
+      "survival",
+      "love",
+      "desolation",
+      "hope"
+    ],
+    "short_summary": "A father and son cross a ruined landscape, sustained by love and a fragile moral code.",
+    "full_summary": "In a devastated post-apocalyptic world, a man and his young son travel south through hunger, cold, and constant danger. Their bond becomes the emotional center of a stark meditation on survival, ethics, and what remains worth preserving."
+  },
+  {
+    "title": "Blood Meridian",
+    "author": "Cormac McCarthy",
+    "themes": [
+      "violence",
+      "history",
+      "fate",
+      "evil"
+    ],
+    "short_summary": "A brutal frontier novel about violence and moral darkness in the American West.",
+    "full_summary": "A runaway known as the kid joins a scalp-hunting gang that leaves devastation across the U.S.-Mexico borderlands. The novel confronts violence as both historical reality and metaphysical force, especially through the terrifying figure of Judge Holden."
+  },
+  {
+    "title": "All the Pretty Horses",
+    "author": "Cormac McCarthy",
+    "themes": [
+      "freedom",
+      "youth",
+      "love",
+      "loss"
+    ],
+    "short_summary": "A young cowboy heads to Mexico seeking freedom and a life shaped by older ideals.",
+    "full_summary": "John Grady Cole leaves Texas for Mexico after his family's ranching world begins to disappear. There he encounters beauty, danger, imprisonment, and love, discovering that romantic visions of freedom cannot survive untouched."
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "themes": [
+      "perseverance",
+      "dignity",
+      "nature",
+      "defeat"
+    ],
+    "short_summary": "An aging fisherman battles a giant marlin in a test of endurance and pride.",
+    "full_summary": "Santiago, an old Cuban fisherman enduring a long streak of bad luck, hooks a magnificent marlin far out at sea and struggles for days to land it. The novella honors endurance, skill, and the dignity of effort even in defeat."
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "themes": [
+      "time",
+      "family",
+      "decay",
+      "memory"
+    ],
+    "short_summary": "A fractured Southern family is portrayed through multiple voices and broken time.",
+    "full_summary": "The Compson family collapses under the weight of pride, loss, and emotional damage, told through four contrasting narrative sections. Faulkner's style turns memory and time into central forces in a story of decay and longing."
+  },
+  {
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "themes": [
+      "family",
+      "death",
+      "journey",
+      "burden"
+    ],
+    "short_summary": "A poor family undertakes a grim and darkly comic journey to bury their mother.",
+    "full_summary": "After Addie Bundren dies, her family transports her body across Mississippi to honor her burial request, though each member is driven by private motives and needs. Faulkner presents the trip through many voices, revealing grief, selfishness, and endurance."
+  },
+  {
+    "title": "Light in August",
+    "author": "William Faulkner",
+    "themes": [
+      "identity",
+      "race",
+      "violence",
+      "isolation"
+    ],
+    "short_summary": "Intersecting lives in the American South expose racial tension and loneliness.",
+    "full_summary": "Joe Christmas, a drifter haunted by uncertainty about his ancestry, becomes the center of a violent chain of events in Jefferson, Mississippi. The novel examines race, identity, social judgment, and spiritual desolation."
+  },
+  {
+    "title": "The Age of Innocence",
+    "author": "Edith Wharton",
+    "themes": [
+      "society",
+      "duty",
+      "love",
+      "conformity"
+    ],
+    "short_summary": "A man in New York high society is torn between passion and convention.",
+    "full_summary": "Newland Archer is engaged to the proper May Welland when he becomes drawn to her unconventional cousin, Countess Ellen Olenska. Wharton critiques the rituals and restraints of elite society through a story of desire, sacrifice, and missed possibilities."
+  },
+  {
+    "title": "House of Mirth",
+    "author": "Edith Wharton",
+    "themes": [
+      "class",
+      "desire",
+      "reputation",
+      "society"
+    ],
+    "short_summary": "A woman seeking security in high society becomes trapped by its cruelty and hypocrisy.",
+    "full_summary": "Lily Bart moves through New York's wealthy social world hoping to secure a stable future, but every misstep threatens her reputation and survival. The novel exposes the narrow options available to women and the moral emptiness of social ambition."
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "themes": [
+      "marriage",
+      "ambition",
+      "society",
+      "idealism"
+    ],
+    "short_summary": "An expansive portrait of provincial life, ambition, marriage, and reform.",
+    "full_summary": "In the town of Middlemarch, Dorothea Brooke, Tertius Lydgate, and others pursue idealistic hopes that collide with ego, money, and social constraint. Eliot presents a deeply humane vision of intertwined lives and moral complexity."
+  },
+  {
+    "title": "Silas Marner",
+    "author": "George Eliot",
+    "themes": [
+      "redemption",
+      "community",
+      "parenthood",
+      "isolation"
+    ],
+    "short_summary": "A lonely weaver finds renewal through unexpected love and belonging.",
+    "full_summary": "Betrayed and cut off from trust, Silas Marner lives in isolation until a young child enters his life and transforms his relationship to the world. The novel contrasts greed with affection and shows how community can heal solitude."
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "themes": [
+      "imperialism",
+      "darkness",
+      "power",
+      "madness"
+    ],
+    "short_summary": "A journey into colonial Africa becomes a confrontation with moral darkness.",
+    "full_summary": "Sailor Charles Marlow travels up the Congo River in search of the ivory trader Kurtz, whose charisma has curdled into corruption and brutality. Conrad uses the voyage to expose imperial violence and the instability of civilized ideals."
+  },
+  {
+    "title": "Lord Jim",
+    "author": "Joseph Conrad",
+    "themes": [
+      "honor",
+      "guilt",
+      "identity",
+      "redemption"
+    ],
+    "short_summary": "A disgraced sailor seeks to rebuild himself after an act of cowardice.",
+    "full_summary": "After abandoning a ship in a moment of panic, Jim spends the rest of his life trying to escape shame and recover a sense of honor. Conrad examines self-deception, idealism, and the impossibility of fully rewriting one's past."
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "themes": [
+      "sacrifice",
+      "revolution",
+      "justice",
+      "love"
+    ],
+    "short_summary": "Lives in London and Paris collide during the French Revolution.",
+    "full_summary": "Charles Darnay, Sydney Carton, and Lucie Manette become bound together as political violence engulfs France. Dickens contrasts cruelty and compassion while building toward a profound act of sacrifice."
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "themes": [
+      "ambition",
+      "class",
+      "growth",
+      "disillusionment"
+    ],
+    "short_summary": "An orphan's rise in status brings both opportunity and painful self-knowledge.",
+    "full_summary": "Pip receives mysterious financial support and enters a new social world, believing wealth will win him love and dignity. As secrets emerge, he confronts the illusions that shaped his ambitions and learns harder lessons about loyalty and character."
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "themes": [
+      "childhood",
+      "resilience",
+      "growth",
+      "society"
+    ],
+    "short_summary": "A semi-autobiographical coming-of-age novel about hardship, work, and self-formation.",
+    "full_summary": "David Copperfield recounts his life from a troubled childhood through exploitation, friendship, love, and professional maturity. The novel traces personal growth while portraying the injustices and eccentricities of Victorian society."
+  },
+  {
+    "title": "Bleak House",
+    "author": "Charles Dickens",
+    "themes": [
+      "law",
+      "inequality",
+      "secrecy",
+      "society"
+    ],
+    "short_summary": "A sprawling novel about a legal system that consumes lives and obscures justice.",
+    "full_summary": "Centered on the never-ending Jarndyce and Jarndyce case, the novel follows a wide cast whose fortunes are shaped by institutions, class, and hidden connections. Dickens attacks bureaucratic cruelty while exposing urban poverty and moral neglect."
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "themes": [
+      "poverty",
+      "crime",
+      "innocence",
+      "survival"
+    ],
+    "short_summary": "An orphan survives exploitation and criminal manipulation in Victorian London.",
+    "full_summary": "Born in a workhouse, Oliver Twist endures hunger, abuse, and the predations of criminals before learning the truth about his origins. Dickens combines social critique with melodrama to expose the treatment of the poor."
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "themes": [
+      "redemption",
+      "generosity",
+      "memory",
+      "change"
+    ],
+    "short_summary": "A miser is transformed after supernatural visits force him to confront his life.",
+    "full_summary": "Ebenezer Scrooge is visited by spirits who show him the past, present, and possible future, revealing the human cost of his greed and isolation. The novella celebrates moral awakening, compassion, and shared humanity."
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "themes": [
+      "survival",
+      "instinct",
+      "nature",
+      "transformation"
+    ],
+    "short_summary": "A domesticated dog is thrust into the brutal world of the Klondike and reclaims primal instincts.",
+    "full_summary": "Buck is stolen from a comfortable home and sold into the Yukon gold rush, where harsh conditions awaken ancient capacities for strength and survival. London's novel explores instinct, adaptation, and the pull of the wild."
+  },
+  {
+    "title": "White Fang",
+    "author": "Jack London",
+    "themes": [
+      "survival",
+      "violence",
+      "trust",
+      "civilization"
+    ],
+    "short_summary": "A wolf-dog's harsh life reveals both cruelty and the possibility of trust.",
+    "full_summary": "Born in the wilderness and shaped by hunger, fear, and abuse, White Fang moves between the wild and human society. The novel explores violence, domestication, and the slow emergence of loyalty."
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "themes": [
+      "adventure",
+      "greed",
+      "coming_of_age",
+      "betrayal"
+    ],
+    "short_summary": "A boy joins a treasure hunt and learns the dangers of greed and deception.",
+    "full_summary": "Jim Hawkins finds a pirate map and sails in search of buried treasure, only to discover mutiny and divided loyalties aboard ship. Stevenson's novel defines the adventure genre through suspense, moral ambiguity, and youthful courage."
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "themes": [
+      "adventure",
+      "loyalty",
+      "identity",
+      "survival"
+    ],
+    "short_summary": "A young Scotsman is betrayed and forced into a dangerous journey across Scotland.",
+    "full_summary": "David Balfour is kidnapped by his uncle's agents after being cheated of his inheritance and becomes an unlikely companion to the outlaw Alan Breck Stewart. The novel combines historical conflict, survival, and friendship."
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "themes": [
+      "alienation",
+      "family",
+      "identity",
+      "absurdity"
+    ],
+    "short_summary": "A traveling salesman wakes transformed into an insect and watches his life collapse.",
+    "full_summary": "Gregor Samsa's sudden transformation into a monstrous bug exposes the fragility of family affection, work, and human dignity. Kafka turns an impossible premise into a haunting study of alienation and burden."
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "themes": [
+      "bureaucracy",
+      "guilt",
+      "absurdity",
+      "power"
+    ],
+    "short_summary": "A man is arrested without explanation and trapped in a nightmarish legal system.",
+    "full_summary": "Josef K. is informed that he is under arrest, yet never learns the charge against him and cannot escape the opaque machinery surrounding his case. The novel captures anxiety, helplessness, and the impersonal violence of bureaucracy."
+  },
+  {
+    "title": "The Castle",
+    "author": "Franz Kafka",
+    "themes": [
+      "bureaucracy",
+      "isolation",
+      "authority",
+      "frustration"
+    ],
+    "short_summary": "A land surveyor struggles to gain access to an unreachable authority.",
+    "full_summary": "Known only as K., the protagonist arrives in a village governed by a mysterious castle whose officials remain distant, contradictory, and inaccessible. Kafka uses the unfinished narrative to evoke exclusion, administrative absurdity, and human yearning for legitimacy."
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "themes": [
+      "spirituality",
+      "self_discovery",
+      "wisdom",
+      "journey"
+    ],
+    "short_summary": "A young man leaves home to seek enlightenment through experience rather than doctrine.",
+    "full_summary": "Siddhartha moves through asceticism, love, wealth, and despair before learning to listen deeply to life itself. Hesse's novel presents spiritual searching as a personal journey toward unity, compassion, and understanding."
+  },
+  {
+    "title": "Steppenwolf",
+    "author": "Hermann Hesse",
+    "themes": [
+      "identity",
+      "alienation",
+      "duality",
+      "transformation"
+    ],
+    "short_summary": "A lonely intellectual confronts his divided self and the possibility of renewal.",
+    "full_summary": "Harry Haller sees himself as split between civilized restraint and animal instinct until surreal encounters challenge his despair and rigidity. The novel explores inner conflict, modern alienation, and the liberating power of multiplicity."
+  },
+  {
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "themes": [
+      "love",
+      "freedom",
+      "politics",
+      "meaning"
+    ],
+    "short_summary": "Intertwined relationships unfold under political pressure in communist Czechoslovakia.",
+    "full_summary": "Tomas, Tereza, Sabina, and Franz navigate desire, fidelity, exile, and history as the Prague Spring and its aftermath reshape their lives. Kundera reflects on chance, embodiment, commitment, and whether life carries weight or lightness."
+  },
+  {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "themes": [
+      "satire",
+      "good_and_evil",
+      "freedom",
+      "love"
+    ],
+    "short_summary": "The Devil visits Moscow in a surreal novel blending satire, fantasy, and spiritual inquiry.",
+    "full_summary": "As a mysterious foreigner wreaks havoc in Soviet Moscow, the persecuted Master and his devoted Margarita become linked to a retelling of Pontius Pilate's story. The novel combines political satire, romance, and metaphysical debate."
+  },
+  {
+    "title": "Doctor Zhivago",
+    "author": "Boris Pasternak",
+    "themes": [
+      "love",
+      "revolution",
+      "history",
+      "art"
+    ],
+    "short_summary": "A poet-doctor's life is transformed by love and the Russian Revolution.",
+    "full_summary": "Yuri Zhivago moves through war, revolution, and personal upheaval while trying to remain faithful to art, feeling, and conscience. His relationship with Lara becomes one thread in a larger meditation on history and private life."
+  },
+  {
+    "title": "The Tin Drum",
+    "author": "Gunter Grass",
+    "themes": [
+      "history",
+      "memory",
+      "satire",
+      "identity"
+    ],
+    "short_summary": "A boy who refuses to grow becomes a witness to Germany's moral collapse.",
+    "full_summary": "Oskar Matzerath decides at the age of three to stop growing and narrates the absurd, disturbing events around him before and during World War II. The novel uses grotesque satire to probe memory, complicity, and historical trauma."
+  },
+  {
+    "title": "The Trial of K",
+    "author": "Bernardo Kucinski",
+    "themes": [
+      "dictatorship",
+      "disappearance",
+      "memory",
+      "grief"
+    ],
+    "short_summary": "A father searches for his vanished daughter under Brazil's military dictatorship.",
+    "full_summary": "K., an aging father, tries to uncover what happened to his daughter after she disappears in a climate of state terror. The novel examines political violence, mourning, and the bureaucratic cruelty of forced disappearance."
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "themes": [
+      "gender",
+      "politics",
+      "friendship",
+      "difference"
+    ],
+    "short_summary": "An envoy on an alien world confronts unfamiliar gender and fragile political alliances.",
+    "full_summary": "Genly Ai travels to the planet Gethen to persuade its nations to join an interstellar alliance, but his assumptions are challenged by a society whose inhabitants are ambisexual. Le Guin uses the journey to explore gender, trust, and cultural difference."
+  },
+  {
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "themes": [
+      "magic",
+      "pride",
+      "balance",
+      "maturity"
+    ],
+    "short_summary": "A gifted boy's misuse of power forces him into a deeper understanding of himself.",
+    "full_summary": "Ged's magical talent brings him fame and possibility, but his pride unleashes a shadow he must pursue across the archipelago. The novel treats wizardry as a discipline of balance and self-knowledge rather than domination."
+  },
+  {
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "themes": [
+      "utopia",
+      "freedom",
+      "politics",
+      "responsibility"
+    ],
+    "short_summary": "A physicist moves between two worlds and tests competing visions of society.",
+    "full_summary": "Shevek leaves the austere anarchist moon Anarres for the wealthy planet Urras, hoping to pursue scientific truth and human openness. His journey exposes the compromises and blind spots of both societies while asking what freedom really requires."
+  },
+  {
+    "title": "The Lathe of Heaven",
+    "author": "Ursula K. Le Guin",
+    "themes": [
+      "reality",
+      "power",
+      "dreams",
+      "ethics"
+    ],
+    "short_summary": "A man's dreams alter reality, creating a dangerous struggle over control.",
+    "full_summary": "George Orr discovers that his dreams change the world, prompting his psychiatrist to manipulate that power in pursuit of utopian outcomes. The novel examines unintended consequences, coercion, and the instability of reality."
+  },
+  {
+    "title": "Kindred",
+    "author": "Octavia E. Butler",
+    "themes": [
+      "slavery",
+      "time_travel",
+      "family",
+      "survival"
+    ],
+    "short_summary": "A modern Black woman is repeatedly pulled back into the antebellum South.",
+    "full_summary": "Dana is transported from 1970s California to a Maryland plantation whenever the life of a white ancestor is in danger. Butler uses time travel to confront slavery as lived experience and to complicate ideas of lineage, power, and survival."
+  },
+  {
+    "title": "Parable of the Sower",
+    "author": "Octavia E. Butler",
+    "themes": [
+      "survival",
+      "community",
+      "change",
+      "belief"
+    ],
+    "short_summary": "A young woman builds a new belief system while traveling through a collapsing America.",
+    "full_summary": "Lauren Olamina flees her destroyed neighborhood and journeys north through violence, inequality, and climate-driven breakdown. Guided by her belief that change is the central force of life, she begins gathering others into a fragile new community."
+  },
+  {
+    "title": "Parable of the Talents",
+    "author": "Octavia E. Butler",
+    "themes": [
+      "power",
+      "faith",
+      "resistance",
+      "community"
+    ],
+    "short_summary": "The struggle to build a new society intensifies under authoritarian violence.",
+    "full_summary": "Told partly through the voice of Lauren Olamina's daughter, the novel follows the growth of Earthseed amid slavery, religious extremism, and political persecution. Butler examines legacy, resistance, and the cost of visionary leadership."
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "themes": [
+      "sisterhood",
+      "abuse",
+      "freedom",
+      "healing"
+    ],
+    "short_summary": "A woman finds voice, love, and self-worth after years of abuse and silence.",
+    "full_summary": "Through letters, Celie narrates a life marked by violence, domination, and loss, but also by deep bonds with other women who help her imagine freedom. Walker's novel traces healing, creativity, and the reclamation of self."
+  },
+  {
+    "title": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "themes": [
+      "family",
+      "colonialism",
+      "faith",
+      "guilt"
+    ],
+    "short_summary": "A missionary family in the Congo is transformed by belief, arrogance, and history.",
+    "full_summary": "Nathan Price brings his wife and daughters to the Belgian Congo with rigid religious certainty, but the mission exposes his blindness and fractures the family. The novel explores colonialism, cultural misunderstanding, and moral reckoning."
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "themes": [
+      "obsession",
+      "friendship",
+      "guilt",
+      "elitism"
+    ],
+    "short_summary": "A group of classics students commit murder and are consumed by secrecy and guilt.",
+    "full_summary": "Richard Papen is drawn into an exclusive college circle whose pursuit of beauty and transcendence leads first to one killing and then another. Tartt combines psychological suspense with a study of privilege, desire, and moral collapse."
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "themes": [
+      "loss",
+      "art",
+      "survival",
+      "identity"
+    ],
+    "short_summary": "A boy survives an explosion, steals a painting, and grows up shaped by grief and beauty.",
+    "full_summary": "After his mother dies in a museum bombing, Theo Decker carries away a priceless painting that becomes both burden and anchor through years of instability. The novel links art, trauma, longing, and the struggle to make a life."
+  },
+  {
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "themes": [
+      "power",
+      "politics",
+      "ambition",
+      "history"
+    ],
+    "short_summary": "Thomas Cromwell rises through the court of Henry VIII in a novel of political intelligence and danger.",
+    "full_summary": "Hilary Mantel reimagines Cromwell not as a villainous bureaucrat but as a shrewd, adaptive statesman navigating royal desire, factional intrigue, and religious upheaval. The novel renders Tudor politics as intimate, unstable, and relentlessly strategic."
+  },
+  {
+    "title": "Bring Up the Bodies",
+    "author": "Hilary Mantel",
+    "themes": [
+      "power",
+      "court",
+      "betrayal",
+      "history"
+    ],
+    "short_summary": "The downfall of Anne Boleyn unfolds through Cromwell's calculating perspective.",
+    "full_summary": "As Henry VIII turns against Anne Boleyn, Thomas Cromwell manages the machinery of accusation and punishment that will clear the way for a new marriage. Mantel presents state violence, memory, and ambition with chilling precision."
+  },
+  {
+    "title": "The Mirror and the Light",
+    "author": "Hilary Mantel",
+    "themes": [
+      "power",
+      "history",
+      "fate",
+      "identity"
+    ],
+    "short_summary": "Cromwell reaches the height of power while moving toward inevitable ruin.",
+    "full_summary": "Now indispensable to Henry VIII, Thomas Cromwell seems secure, yet rivals, royal moods, and remembered enemies close around him. The final volume of Mantel's trilogy examines authority, vulnerability, and the cost of surviving too well at court."
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "themes": [
+      "survival",
+      "faith",
+      "storytelling",
+      "imagination"
+    ],
+    "short_summary": "A shipwrecked boy survives at sea with a Bengal tiger and tells an unforgettable story.",
+    "full_summary": "Pi Patel, stranded on a lifeboat with dangerous animals after a shipwreck, develops an uneasy coexistence with a tiger named Richard Parker. The novel explores survival, belief, and the role storytelling plays in making suffering bearable."
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "themes": [
+      "duty",
+      "regret",
+      "memory",
+      "service"
+    ],
+    "short_summary": "An English butler reflects on a life shaped by loyalty, restraint, and missed feeling.",
+    "full_summary": "Stevens travels through the English countryside recalling decades of service at Darlington Hall and slowly recognizing both his employer's failings and his own emotional sacrifices. Ishiguro's novel examines dignity, repression, and regret."
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "themes": [
+      "memory",
+      "mortality",
+      "love",
+      "ethics"
+    ],
+    "short_summary": "Friends raised in an isolated school gradually understand the purpose of their lives.",
+    "full_summary": "Kathy, Ruth, and Tommy look back on their childhood at Hailsham and the quiet revelations that shaped their futures. The novel approaches mortality, exploitation, and tenderness with unsettling calm, asking what it means to be human."
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "themes": [
+      "artificial_intelligence",
+      "love",
+      "care",
+      "hope"
+    ],
+    "short_summary": "An artificial friend tries to understand human love, illness, and hope.",
+    "full_summary": "Klara, an artificial companion powered by the sun, is chosen to support a sick girl named Josie and observes the complicated emotional world of the family around her. Ishiguro uses her perspective to explore care, sacrifice, and the limits of understanding."
+  },
+  {
+    "title": "The Buried Giant",
+    "author": "Kazuo Ishiguro",
+    "themes": [
+      "memory",
+      "love",
+      "war",
+      "forgetting"
+    ],
+    "short_summary": "An elderly couple crosses a misty land where forgetting has reshaped the past.",
+    "full_summary": "Axl and Beatrice travel through post-Arthurian Britain in search of their son, while a strange mist causes collective amnesia. The novel links private love with historical violence and asks whether forgetting can ever preserve peace."
+  },
+  {
+    "title": "Atonement",
+    "author": "Ian McEwan",
+    "themes": [
+      "guilt",
+      "love",
+      "war",
+      "storytelling"
+    ],
+    "short_summary": "A child's accusation destroys lives, and art becomes a way to revisit guilt.",
+    "full_summary": "When young Briony Tallis misinterprets an encounter and makes a false accusation, she permanently alters the lives of her sister Cecilia and Robbie Turner. The novel follows the consequences across war and time while examining truth, imagination, and reparative storytelling."
+  },
+  {
+    "title": "Amsterdam",
+    "author": "Ian McEwan",
+    "themes": [
+      "ambition",
+      "revenge",
+      "morality",
+      "satire"
+    ],
+    "short_summary": "Two old friends descend into rivalry and pettiness after a mutual lover dies.",
+    "full_summary": "A composer and a newspaper editor make a pact about euthanasia, but their friendship erodes into vanity, manipulation, and revenge. McEwan uses dark comedy to expose self-importance and moral weakness."
+  },
+  {
+    "title": "On Chesil Beach",
+    "author": "Ian McEwan",
+    "themes": [
+      "marriage",
+      "miscommunication",
+      "sexuality",
+      "regret"
+    ],
+    "short_summary": "A single disastrous night exposes innocence, fear, and the lifelong cost of silence.",
+    "full_summary": "Edward and Florence, newly married in early 1960s England, are undone by inexperience and their inability to speak honestly about sex and desire. The novella shows how one moment of misunderstanding can redirect entire lives."
+  },
+  {
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "themes": [
+      "connection",
+      "power",
+      "history",
+      "reincarnation"
+    ],
+    "short_summary": "Linked stories across centuries reveal recurring struggles over exploitation and freedom.",
+    "full_summary": "Six nested narratives move from the nineteenth century into the distant future, each echoing the others through documents, memory, and power structures. Mitchell suggests that acts of domination and resistance reverberate across time."
+  },
+  {
+    "title": "Seahorses: A Life‑Size Guide to Every Species",
+    "author": "Sara Lourie",
+    "themes": [
+      "seahorse biology",
+      "morphology and anatomy",
+      "reproduction and life history",
+      "behavior and ecology",
+      "species identification",
+      "conservation"
+    ],
+    "short_summary": "Seahorses: A Life‑Size Guide to Every Species (Sara Lourie; University of Chicago Press, 2016/2022) is an accessible yet scientifically grounded field and reference guide to seahorse natural history. Written by a Project Seahorse researcher and taxonomist, it provides detailed species accounts (including seadragons and pipefish), life‑size silhouettes and photographs, and concise chapters on morphology, life history and behavior, courtship and reproduction, distribution, evolution, threats, and conservation. Designed both as an identification resource and a synthesis of current research, it’s suitable for students, researchers, and informed lay readers seeking authoritative information on seahorse biology and conservation.",
+    "full_summary": "Seahorses: A Life‑Size Guide to Every Species (Sara Lourie, University of Chicago Press, 2022/2016 editions) is an accessible but scientifically grounded guide to seahorse natural history. It presents detailed species accounts (including relatives such as seadragons and pipefish), life‑size silhouettes/photographs, and chapters on morphology, life history and behavior, courtship and reproduction, distribution, evolution, threats, and conservation. The book is written by a Project Seahorse researcher and taxonomist and is intended as both an identification resource and a synthesis of current knowledge on seahorse biology and conservation—suitable for students, researchers, and informed lay readers interested in scientific information about seahorses. ([books.google.com](https://books.google.com/books/about/Seahorses.html?id=zMlDDQAAQBAJ&utm_source=openai))"
+  }
+]
