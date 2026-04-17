@@ -1,3 +1,4 @@
+test_bad_word
 abbo
 abeed
 abuse
